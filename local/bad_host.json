@@ -929,3 +929,36 @@
 {"urls": {"http://smithsonianearthtv.com/": {"status": 0, "error": "Hostname could not be resolved (http://smithsonianearthtv.com/)"}}, "technologies": []}
 {"urls": {"http://monitor.net.co/": {"status": 0, "error": "Hostname could not be resolved (http://monitor.net.co/)"}}, "technologies": []}
 {"urls": {"http://otianywhere.net/": {"status": 0, "error": "Hostname could not be resolved (http://otianywhere.net/)"}}, "technologies": []}
+{"urls": {"http://adrianmi.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://adrianmi.gov/)"}}, "technologies": []}
+{"urls": {"http://albuquerque-nm.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://albuquerque-nm.gov/)"}}, "technologies": []}
+{"urls": {"http://algoodtn.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://algoodtn.gov/)"}}, "technologies": []}
+{"urls": {"http://allianceoh.gov/": {"status": 0, "error": "Hostname could not be resolved (http://allianceoh.gov/)"}}, "technologies": []}
+{"urls": {"http://ameniany.gov/": {"status": 0, "error": "net::ERR_EMPTY_RESPONSE at http://ameniany.gov/ (http://ameniany.gov/)"}}, "technologies": []}
+{"urls": {"http://annapolis.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://annapolis.gov/)"}}, "technologies": []}
+{"urls": {"http://antiochcaboard.gov/": {"status": 0, "error": "Hostname could not be resolved (http://antiochcaboard.gov/)"}}, "technologies": []}
+{"urls": {"http://antiochcacommission.gov/": {"status": 0, "error": "Hostname could not be resolved (http://antiochcacommission.gov/)"}}, "technologies": []}
+{"urls": {"http://antiochcacommittee.gov/": {"status": 0, "error": "Hostname could not be resolved (http://antiochcacommittee.gov/)"}}, "technologies": []}
+{"urls": {"http://appomattoxva.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://appomattoxva.gov/)"}}, "technologies": []}
+{"urls": {"http://argonnewi.gov/": {"status": 0, "error": "Hostname could not be resolved (http://argonnewi.gov/)"}}, "technologies": []}
+{"urls": {"http://atkinson-nh.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://atkinson-nh.gov/)"}}, "technologies": []}
+{"urls": {"http://badenpa.gov/": {"status": 0, "error": "Hostname could not be resolved (http://badenpa.gov/)"}}, "technologies": []}
+{"urls": {"http://bakersfield-ca.gov/": {"status": 0, "error": "Hostname could not be resolved (http://bakersfield-ca.gov/)"}}, "technologies": []}
+{"urls": {"http://bardstownky.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://bardstownky.gov/)"}}, "technologies": []}
+{"urls": {"http://batonrougela.gov/": {"status": 0, "error": "Hostname could not be resolved (http://batonrougela.gov/)"}}, "technologies": []}
+{"urls": {"http://beaverpa.gov/": {"status": 0, "error": "Hostname could not be resolved (http://beaverpa.gov/)"}}, "technologies": []}
+{"urls": {"http://bentonchartertownship-mi.gov/": {"status": 0, "error": "net::ERR_CONNECTION_REFUSED at http://bentonchartertownship-mi.gov/ (http://bentonchartertownship-mi.gov/)"}}, "technologies": []}
+{"urls": {"http://bergenfieldnjpd.gov/": {"status": 0, "error": "net::ERR_ADDRESS_UNREACHABLE at http://bergenfieldnjpd.gov/ (http://bergenfieldnjpd.gov/)"}}, "technologies": []}
+{"urls": {"http://berlinnhpd.gov/": {"status": 0, "error": "Hostname could not be resolved (http://berlinnhpd.gov/)"}}, "technologies": []}
+{"urls": {"http://boiseidaho.gov/": {"status": 0, "error": "Hostname could not be resolved (http://boiseidaho.gov/)"}}, "technologies": []}
+{"urls": {"http://bolton-ma.gov/": {"status": 0, "error": "Hostname could not be resolved (http://bolton-ma.gov/)"}}, "technologies": []}
+{"urls": {"http://booneiowa.gov/": {"status": 0, "error": "Hostname could not be resolved (http://booneiowa.gov/)"}}, "technologies": []}
+{"urls": {"http://booneville-ms.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://booneville-ms.gov/)"}}, "technologies": []}
+{"urls": {"http://bowersde.gov/": {"status": 0, "error": "Hostname could not be resolved (http://bowersde.gov/)"}}, "technologies": []}
+{"urls": {"http://brawley-ca.gov/": {"status": 0, "error": "Hostname could not be resolved (http://brawley-ca.gov/)"}}, "technologies": []}
+{"urls": {"http://brentwoodtn.gov/": {"status": 0, "error": "Hostname could not be resolved (http://brentwoodtn.gov/)"}}, "technologies": []}
+{"urls": {"http://bridgecitytx.gov/": {"status": 0, "error": "Hostname could not be resolved (http://bridgecitytx.gov/)"}}, "technologies": []}
+{"urls": {"http://bristolct.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://bristolct.gov/)"}}, "technologies": []}
+{"urls": {"http://brookfield-wi.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://brookfield-wi.gov/)"}}, "technologies": []}
+{"urls": {"http://browndeerwi.gov/": {"status": 0, "error": "Hostname could not be resolved (http://browndeerwi.gov/)"}}, "technologies": []}
+{"urls": {"http://buffalony.gov/": {"status": 0, "error": "Hostname could not be resolved (http://buffalony.gov/)"}}, "technologies": []}
+{"urls": {"http://bullheadcityaz.gov/": {"status": 0, "error": "Hostname could not be resolved (http://bullheadcityaz.gov/)"}}, "technologies": []}
