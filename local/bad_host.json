@@ -673,3 +673,11 @@
 {"urls": {"http://radcliff.org/": {"status": 0, "error": "net::ERR_EMPTY_RESPONSE at http://radcliff.org/ (http://radcliff.org/)"}}, "technologies": []}
 {"urls": {"http://radford.va.us/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://radford.va.us/)"}}, "technologies": []}
 {"urls": {"http://raefordcity.org/": {"status": 0, "error": "net::ERR_EMPTY_RESPONSE at http://raefordcity.org/ (http://raefordcity.org/)"}}, "technologies": []}
+{"urls": {"http://readfield.govoffice.com/": {"status": 0, "error": "Hostname could not be resolved (http://readfield.govoffice.com/)"}}, "technologies": []}
+{"urls": {"http://riandsemacfc.org/": {"status": 0, "error": "Hostname could not be resolved (http://riandsemacfc.org/)"}}, "technologies": []}
+{"urls": {"http://www2.ridgewoodnj.net/": {"status": 0, "error": "Hostname could not be resolved (http://www2.ridgewoodnj.net/)"}}, "technologies": []}
+{"urls": {"http://rockdale-il.com/": {"status": 0, "error": "Hostname could not be resolved (http://rockdale-il.com/)"}}, "technologies": []}
+{"urls": {"http://rockymountaincfc.org/": {"status": 0, "error": "Hostname could not be resolved (http://rockymountaincfc.org/)"}}, "technologies": []}
+{"urls": {"http://rolla.nd.utma.com/rollacity": {"status": 0, "error": "Hostname could not be resolved (http://rolla.nd.utma.com/rollacity)"}}, "technologies": []}
+{"urls": {"http://safeandwell.communityos.org/": {"status": 0, "error": "Hostname could not be resolved (http://safeandwell.communityos.org/)"}}, "technologies": []}
+{"urls": {"http://safesurrender.net/": {"status": 0, "error": "Hostname could not be resolved (http://safesurrender.net/)"}}, "technologies": []}
