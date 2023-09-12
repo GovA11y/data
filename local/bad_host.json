@@ -712,3 +712,52 @@
 {"urls": {"http://southeastdiesel.org/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://southeastdiesel.org/)"}}, "technologies": []}
 {"urls": {"http://southwestfloridacfc.org/": {"status": 0, "error": "Hostname could not be resolved (http://southwestfloridacfc.org/)"}}, "technologies": []}
 {"urls": {"http://spartawisconsin.org/": {"status": 0, "error": "net::ERR_EMPTY_RESPONSE at http://spartawisconsin.org/ (http://spartawisconsin.org/)"}}, "technologies": []}
+{"urls": {"http://springsgov.com/": {"status": 0, "error": "net::ERR_CONNECTION_REFUSED at http://springsgov.com/ (http://springsgov.com/)"}}, "technologies": []}
+{"urls": {"http://startsquad.org/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://startsquad.org/)"}}, "technologies": []}
+{"urls": {"http://state.al.us/": {"status": 0, "error": "net::ERR_CONNECTION_RESET at http://state.al.us/ (http://state.al.us/)"}}, "technologies": []}
+{"urls": {"http://state.ar.us/": {"status": 0, "error": "Hostname could not be resolved (http://state.ar.us/)"}}, "technologies": []}
+{"urls": {"http://state.ca.us/": {"status": 0, "error": "Hostname could not be resolved (http://state.ca.us/)"}}, "technologies": []}
+{"urls": {"http://state.id.us/": {"status": 0, "error": "Hostname could not be resolved (http://state.id.us/)"}}, "technologies": []}
+{"urls": {"http://state.lib.la.us/": {"status": 0, "error": "Hostname could not be resolved (http://state.lib.la.us/)"}}, "technologies": []}
+{"urls": {"http://state.ne.us/": {"status": 0, "error": "Hostname could not be resolved (http://state.ne.us/)"}}, "technologies": []}
+{"urls": {"http://state.va.us/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://state.va.us/)"}}, "technologies": []}
+{"urls": {"http://state.wi.us/": {"status": 0, "error": "net::ERR_CONNECTION_REFUSED at http://state.wi.us/ (http://state.wi.us/)"}}, "technologies": []}
+{"urls": {"http://staunton.va.us/": {"status": 0, "error": "Hostname could not be resolved (http://staunton.va.us/)"}}, "technologies": []}
+{"urls": {"http://stmaryscountycfc.org/": {"status": 0, "error": "Hostname could not be resolved (http://stmaryscountycfc.org/)"}}, "technologies": []}
+{"urls": {"http://stone-harbor.nj.us/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://stone-harbor.nj.us/)"}}, "technologies": []}
+{"urls": {"http://strattoncolorado.com/": {"status": 0, "error": "Hostname could not be resolved (http://strattoncolorado.com/)"}}, "technologies": []}
+{"urls": {"http://sullivancounty-pa.org/": {"status": 0, "error": "Hostname could not be resolved (http://sullivancounty-pa.org/)"}}, "technologies": []}
+{"urls": {"http://summerville.sc.us/": {"status": 0, "error": "Hostname could not be resolved (http://summerville.sc.us/)"}}, "technologies": []}
+{"urls": {"http://suncoastcfc.org/": {"status": 0, "error": "Hostname could not be resolved (http://suncoastcfc.org/)"}}, "technologies": []}
+{"urls": {"http://surpluspropertydivision.com/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://surpluspropertydivision.com/)"}}, "technologies": []}
+{"urls": {"http://sweet.wy.us/": {"status": 0, "error": "Hostname could not be resolved (http://sweet.wy.us/)"}}, "technologies": []}
+{"urls": {"http://swotero.org/": {"status": 0, "error": "Hostname could not be resolved (http://swotero.org/)"}}, "technologies": []}
+{"urls": {"http://t2health.org/": {"status": 0, "error": "Hostname could not be resolved (http://t2health.org/)"}}, "technologies": []}
+{"urls": {"http://teach4nc.com/": {"status": 0, "error": "Hostname could not be resolved (http://teach4nc.com/)"}}, "technologies": []}
+{"urls": {"http://tecumsehonline.com/": {"status": 0, "error": "Hostname could not be resolved (http://tecumsehonline.com/)"}}, "technologies": []}
+{"urls": {"http://tetoncomt.org/": {"status": 0, "error": "net::ERR_EMPTY_RESPONSE at http://tetoncomt.org/ (http://tetoncomt.org/)"}}, "technologies": []}
+{"urls": {"http://theshoalscfc.org/": {"status": 0, "error": "Hostname could not be resolved (http://theshoalscfc.org/)"}}, "technologies": []}
+{"urls": {"http://thurman-ny.com/": {"status": 0, "error": "Hostname could not be resolved (http://thurman-ny.com/)"}}, "technologies": []}
+{"urls": {"http://titusvillepa.com/": {"status": 0, "error": "Hostname could not be resolved (http://titusvillepa.com/)"}}, "technologies": []}
+{"urls": {"http://tnregionalcfc.org/": {"status": 0, "error": "Hostname could not be resolved (http://tnregionalcfc.org/)"}}, "technologies": []}
+{"urls": {"http://tobyhannatownship.org/": {"status": 0, "error": "Hostname could not be resolved (http://tobyhannatownship.org/)"}}, "technologies": []}
+{"urls": {"http://tonasketcity.org/": {"status": 0, "error": "Hostname could not be resolved (http://tonasketcity.org/)"}}, "technologies": []}
+{"urls": {"http://topeka.org/": {"status": 0, "error": "Hostname could not be resolved (http://topeka.org/)"}}, "technologies": []}
+{"urls": {"http://town.bridgewater.va.us/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://town.bridgewater.va.us/)"}}, "technologies": []}
+{"urls": {"http://town.coupeville.wa.us/": {"status": 0, "error": "Hostname could not be resolved (http://town.coupeville.wa.us/)"}}, "technologies": []}
+{"urls": {"http://town.groton.ct.us/": {"status": 0, "error": "Hostname could not be resolved (http://town.groton.ct.us/)"}}, "technologies": []}
+{"urls": {"http://town.hamilton.va.us/": {"status": 0, "error": "Hostname could not be resolved (http://town.hamilton.va.us/)"}}, "technologies": []}
+{"urls": {"http://town.jaffrey.nh.us/": {"status": 0, "error": "Hostname could not be resolved (http://town.jaffrey.nh.us/)"}}, "technologies": []}
+{"urls": {"http://town.ledyard.ct.us/": {"status": 0, "error": "Hostname could not be resolved (http://town.ledyard.ct.us/)"}}, "technologies": []}
+{"urls": {"http://town.stoneville.nc.us/": {"status": 0, "error": "Hostname could not be resolved (http://town.stoneville.nc.us/)"}}, "technologies": []}
+{"urls": {"http://town.swanzey.nh.us/": {"status": 0, "error": "Hostname could not be resolved (http://town.swanzey.nh.us/)"}}, "technologies": []}
+{"urls": {"http://townofarena.com/": {"status": 0, "error": "Hostname could not be resolved (http://townofarena.com/)"}}, "technologies": []}
+{"urls": {"http://townofblackwolf.com/": {"status": 0, "error": "net::ERR_EMPTY_RESPONSE at http://townofblackwolf.com/ (http://townofblackwolf.com/)"}}, "technologies": []}
+{"urls": {"http://townofblowingrock.com/": {"status": 0, "error": "Hostname could not be resolved (http://townofblowingrock.com/)"}}, "technologies": []}
+{"urls": {"http://townofcalabash.net/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://townofcalabash.net/)"}}, "technologies": []}
+{"urls": {"http://townofcanaannh.us/": {"status": 0, "error": "Hostname could not be resolved (http://townofcanaannh.us/)"}}, "technologies": []}
+{"urls": {"http://townofcatawbanc.org/": {"status": 0, "error": "Hostname could not be resolved (http://townofcatawbanc.org/)"}}, "technologies": []}
+{"urls": {"http://townofchelmsford.us/": {"status": 0, "error": "Hostname could not be resolved (http://townofchelmsford.us/)"}}, "technologies": []}
+{"urls": {"http://townofmanchester.org/": {"status": 0, "error": "Hostname could not be resolved (http://townofmanchester.org/)"}}, "technologies": []}
+{"urls": {"http://townofmiddleburg.org/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://townofmiddleburg.org/)"}}, "technologies": []}
+{"urls": {"http://townofmontreat.org/": {"status": 0, "error": "net::ERR_EMPTY_RESPONSE at http://townofmontreat.org/ (http://townofmontreat.org/)"}}, "technologies": []}
