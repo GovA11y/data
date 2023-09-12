@@ -494,3 +494,4 @@
 {"urls": {"http://leavenworthcounty.org/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://leavenworthcounty.org/)"}}, "technologies": []}
 {"urls": {"http://lebanontownhall.org/": {"status": 0, "error": "Hostname could not be resolved (http://lebanontownhall.org/)"}}, "technologies": []}
 {"urls": {"http://harwinton.us/": {"status": 0, "error": "Hostname could not be resolved (http://harwinton.us/)"}}, "technologies": []}
+{"urls": {"http://hatborogov.org/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://hatborogov.org/)"}}, "technologies": []}
