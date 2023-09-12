@@ -485,3 +485,4 @@
 {"urls": {"http://lrc.ky.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://lrc.ky.gov/)"}}, "technologies": []}
 {"urls": {"http://ktcfc.org/": {"status": 0, "error": "Hostname could not be resolved (http://ktcfc.org/)"}}, "technologies": []}
 {"urls": {"http://kutztownboro.org/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://kutztownboro.org/)"}}, "technologies": []}
+{"urls": {"http://laeggs.com/": {"status": 0, "error": "net::ERR_EMPTY_RESPONSE at http://laeggs.com/ (http://laeggs.com/)"}}, "technologies": []}
