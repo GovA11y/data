@@ -522,3 +522,5 @@
 {"urls": {"http://justice.gov.gu/": {"status": 0, "error": "Hostname could not be resolved (http://justice.gov.gu/)"}}, "technologies": []}
 {"urls": {"http://kacada.org/": {"status": 0, "error": "Hostname could not be resolved (http://kacada.org/)"}}, "technologies": []}
 {"urls": {"http://kansascfc.org/": {"status": 0, "error": "Hostname could not be resolved (http://kansascfc.org/)"}}, "technologies": []}
+{"urls": {"http://kearnyusa.com/": {"status": 0, "error": "net::ERR_CONNECTION_RESET at http://kearnyusa.com/ (http://kearnyusa.com/)"}}, "technologies": []}
+{"urls": {"http://kennett-square.pa.us/": {"status": 0, "error": "net::ERR_ADDRESS_UNREACHABLE at http://kennett-square.pa.us/ (http://kennett-square.pa.us/)"}}, "technologies": []}
