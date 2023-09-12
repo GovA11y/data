@@ -761,3 +761,19 @@
 {"urls": {"http://townofmanchester.org/": {"status": 0, "error": "Hostname could not be resolved (http://townofmanchester.org/)"}}, "technologies": []}
 {"urls": {"http://townofmiddleburg.org/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://townofmiddleburg.org/)"}}, "technologies": []}
 {"urls": {"http://townofmontreat.org/": {"status": 0, "error": "net::ERR_EMPTY_RESPONSE at http://townofmontreat.org/ (http://townofmontreat.org/)"}}, "technologies": []}
+{"urls": {"http://townofnavarino.com/": {"status": 0, "error": "Hostname could not be resolved (http://townofnavarino.com/)"}}, "technologies": []}
+{"urls": {"http://townofnewport.com/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://townofnewport.com/)"}}, "technologies": []}
+{"urls": {"http://townofnorris.org/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://townofnorris.org/)"}}, "technologies": []}
+{"urls": {"http://tn.ottawa.wi.gov/": {"status": 0, "error": "Hostname could not be resolved (http://tn.ottawa.wi.gov/)"}}, "technologies": []}
+{"urls": {"http://townofselbyville.com/": {"status": 0, "error": "Hostname could not be resolved (http://townofselbyville.com/)"}}, "technologies": []}
+{"urls": {"http://programs.townofspeedway.org/": {"status": 0, "error": "Hostname could not be resolved (http://programs.townofspeedway.org/)"}}, "technologies": []}
+{"urls": {"http://townofspiderlake.org/": {"status": 0, "error": "Hostname could not be resolved (http://townofspiderlake.org/)"}}, "technologies": []}
+{"urls": {"http://townofstraffordvt.com/": {"status": 0, "error": "Hostname could not be resolved (http://townofstraffordvt.com/)"}}, "technologies": []}
+{"urls": {"http://townofsummerton.com/": {"status": 0, "error": "Hostname could not be resolved (http://townofsummerton.com/)"}}, "technologies": []}
+{"urls": {"http://townofvelma.com/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://townofvelma.com/)"}}, "technologies": []}
+{"urls": {"http://township.longlostlake.com/": {"status": 0, "error": "Hostname could not be resolved (http://township.longlostlake.com/)"}}, "technologies": []}
+{"urls": {"http://township.stroud.pa.us/": {"status": 0, "error": "Hostname could not be resolved (http://township.stroud.pa.us/)"}}, "technologies": []}
+{"urls": {"http://traveltex.com/": {"status": 0, "error": "net::ERR_CONNECTION_RESET at http://traveltex.com/ (http://traveltex.com/)"}}, "technologies": []}
+{"urls": {"http://treasurer.org/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://treasurer.org/)"}}, "technologies": []}
+{"urls": {"http://trinitycounty.org/": {"status": 0, "error": "Hostname could not be resolved (http://trinitycounty.org/)"}}, "technologies": []}
+{"urls": {"http://troy.troytn.com/": {"status": 0, "error": "Hostname could not be resolved (http://troy.troytn.com/)"}}, "technologies": []}
