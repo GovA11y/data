@@ -517,3 +517,7 @@
 {"urls": {"http://iowanationalguard.com/": {"status": 0, "error": "net::ERR_CONNECTION_RESET at http://iowanationalguard.com/ (http://iowanationalguard.com/)"}}, "technologies": []}
 {"urls": {"http://jamestownri.net/": {"status": 0, "error": "Hostname could not be resolved (http://jamestownri.net/)"}}, "technologies": []}
 {"urls": {"http://jaspercountysc.org/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://jaspercountysc.org/)"}}, "technologies": []}
+{"urls": {"http://jfkadatc.net/": {"status": 0, "error": "Hostname could not be resolved (http://jfkadatc.net/)"}}, "technologies": []}
+{"urls": {"http://johnsoncity-mountainhomecfc.org/": {"status": 0, "error": "Hostname could not be resolved (http://johnsoncity-mountainhomecfc.org/)"}}, "technologies": []}
+{"urls": {"http://justice.gov.gu/": {"status": 0, "error": "Hostname could not be resolved (http://justice.gov.gu/)"}}, "technologies": []}
+{"urls": {"http://kacada.org/": {"status": 0, "error": "Hostname could not be resolved (http://kacada.org/)"}}, "technologies": []}
