@@ -593,3 +593,4 @@
 {"urls": {"http://newbremen.com/": {"status": 0, "error": "net::ERR_EMPTY_RESPONSE at http://newbremen.com/ (http://newbremen.com/)"}}, "technologies": []}
 {"urls": {"http://newlisbon.net/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://newlisbon.net/)"}}, "technologies": []}
 {"urls": {"http://desertswcfc.org/": {"status": 0, "error": "Hostname could not be resolved (http://desertswcfc.org/)"}}, "technologies": []}
+{"urls": {"http://nhlottery.org/": {"status": 0, "error": "Hostname could not be resolved (http://nhlottery.org/)"}}, "technologies": []}
