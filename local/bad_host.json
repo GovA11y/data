@@ -524,3 +524,14 @@
 {"urls": {"http://kansascfc.org/": {"status": 0, "error": "Hostname could not be resolved (http://kansascfc.org/)"}}, "technologies": []}
 {"urls": {"http://kearnyusa.com/": {"status": 0, "error": "net::ERR_CONNECTION_RESET at http://kearnyusa.com/ (http://kearnyusa.com/)"}}, "technologies": []}
 {"urls": {"http://kennett-square.pa.us/": {"status": 0, "error": "net::ERR_ADDRESS_UNREACHABLE at http://kennett-square.pa.us/ (http://kennett-square.pa.us/)"}}, "technologies": []}
+{"urls": {"http://kingcountycfc.org/": {"status": 0, "error": "Hostname could not be resolved (http://kingcountycfc.org/)"}}, "technologies": []}
+{"urls": {"http://lrc.ky.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://lrc.ky.gov/)"}}, "technologies": []}
+{"urls": {"http://ktcfc.org/": {"status": 0, "error": "Hostname could not be resolved (http://ktcfc.org/)"}}, "technologies": []}
+{"urls": {"http://kutztownboro.org/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://kutztownboro.org/)"}}, "technologies": []}
+{"urls": {"http://laeggs.com/": {"status": 0, "error": "net::ERR_EMPTY_RESPONSE at http://laeggs.com/ (http://laeggs.com/)"}}, "technologies": []}
+{"urls": {"http://latah.id.us/": {"status": 0, "error": "Hostname could not be resolved (http://latah.id.us/)"}}, "technologies": []}
+{"urls": {"http://laworks.net/": {"status": 0, "error": "Hostname could not be resolved (http://laworks.net/)"}}, "technologies": []}
+{"urls": {"http://laytonsville.md.us/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://laytonsville.md.us/)"}}, "technologies": []}
+{"urls": {"http://lbedn.org/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://lbedn.org/)"}}, "technologies": []}
+{"urls": {"http://leacocktwp.com/": {"status": 0, "error": "Hostname could not be resolved (http://leacocktwp.com/)"}}, "technologies": []}
+{"urls": {"http://leavenworthcounty.org/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://leavenworthcounty.org/)"}}, "technologies": []}
