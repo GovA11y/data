@@ -495,3 +495,8 @@
 {"urls": {"http://lebanontownhall.org/": {"status": 0, "error": "Hostname could not be resolved (http://lebanontownhall.org/)"}}, "technologies": []}
 {"urls": {"http://harwinton.us/": {"status": 0, "error": "Hostname could not be resolved (http://harwinton.us/)"}}, "technologies": []}
 {"urls": {"http://hatborogov.org/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://hatborogov.org/)"}}, "technologies": []}
+{"urls": {"http://haywoodnc.net/": {"status": 0, "error": "Hostname could not be resolved (http://haywoodnc.net/)"}}, "technologies": []}
+{"urls": {"http://hcky.org/": {"status": 0, "error": "net::ERR_EMPTY_RESPONSE at http://hcky.org/ (http://hcky.org/)"}}, "technologies": []}
+{"urls": {"http://heartofalabamacfc.org/": {"status": 0, "error": "Hostname could not be resolved (http://heartofalabamacfc.org/)"}}, "technologies": []}
+{"urls": {"http://heartofthemidlandscfc.org/": {"status": 0, "error": "Hostname could not be resolved (http://heartofthemidlandscfc.org/)"}}, "technologies": []}
+{"urls": {"http://heyburnidaho.org/": {"status": 0, "error": "Hostname could not be resolved (http://heyburnidaho.org/)"}}, "technologies": []}
