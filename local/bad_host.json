@@ -1104,3 +1104,5 @@
 {"urls": {"http://laketownmn.gov/": {"status": 0, "error": "Hostname could not be resolved (http://laketownmn.gov/)"}}, "technologies": []}
 {"urls": {"http://lakewoodco.gov/": {"status": 0, "error": "Hostname could not be resolved (http://lakewoodco.gov/)"}}, "technologies": []}
 {"urls": {"http://lawtonmi.gov/": {"status": 0, "error": "net::ERR_CONNECTION_REFUSED at http://lawtonmi.gov/ (http://lawtonmi.gov/)"}}, "technologies": []}
+{"urls": {"http://lenexa-ks.gov/": {"status": 0, "error": "Hostname could not be resolved (http://lenexa-ks.gov/)"}}, "technologies": []}
+{"urls": {"http://lenoir-nc.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://lenoir-nc.gov/)"}}, "technologies": []}
