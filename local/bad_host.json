@@ -962,3 +962,22 @@
 {"urls": {"http://browndeerwi.gov/": {"status": 0, "error": "Hostname could not be resolved (http://browndeerwi.gov/)"}}, "technologies": []}
 {"urls": {"http://buffalony.gov/": {"status": 0, "error": "Hostname could not be resolved (http://buffalony.gov/)"}}, "technologies": []}
 {"urls": {"http://bullheadcityaz.gov/": {"status": 0, "error": "Hostname could not be resolved (http://bullheadcityaz.gov/)"}}, "technologies": []}
+{"urls": {"http://carrboronc.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://carrboronc.gov/)"}}, "technologies": []}
+{"urls": {"http://champaign-il.gov/": {"status": 0, "error": "Hostname could not be resolved (http://champaign-il.gov/)"}}, "technologies": []}
+{"urls": {"http://chilhowieva.gov/": {"status": 0, "error": "Hostname could not be resolved (http://chilhowieva.gov/)"}}, "technologies": []}
+{"urls": {"http://cityofadams-wi.gov/": {"status": 0, "error": "Hostname could not be resolved (http://cityofadams-wi.gov/)"}}, "technologies": []}
+{"urls": {"http://cityofapalachicolafl.gov/": {"status": 0, "error": "Hostname could not be resolved (http://cityofapalachicolafl.gov/)"}}, "technologies": []}
+{"urls": {"http://cityofaudubonmn.gov/": {"status": 0, "error": "Hostname could not be resolved (http://cityofaudubonmn.gov/)"}}, "technologies": []}
+{"urls": {"http://cityofbentonharbormi.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://cityofbentonharbormi.gov/)"}}, "technologies": []}
+{"urls": {"http://cityofboydtx.gov/": {"status": 0, "error": "Hostname could not be resolved (http://cityofboydtx.gov/)"}}, "technologies": []}
+{"urls": {"http://cityofbridgetonnj.gov/": {"status": 0, "error": "Hostname could not be resolved (http://cityofbridgetonnj.gov/)"}}, "technologies": []}
+{"urls": {"http://cityofcanalfulton-oh.gov/": {"status": 0, "error": "net::ERR_EMPTY_RESPONSE at http://cityofcanalfulton-oh.gov/ (http://cityofcanalfulton-oh.gov/)"}}, "technologies": []}
+{"urls": {"http://cityofchampaign-il.gov/": {"status": 0, "error": "Hostname could not be resolved (http://cityofchampaign-il.gov/)"}}, "technologies": []}
+{"urls": {"http://cityofchampaignil.gov/": {"status": 0, "error": "Hostname could not be resolved (http://cityofchampaignil.gov/)"}}, "technologies": []}
+{"urls": {"http://cityofcharlottetn.gov/": {"status": 0, "error": "Hostname could not be resolved (http://cityofcharlottetn.gov/)"}}, "technologies": []}
+{"urls": {"http://cityofcudahyca.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://cityofcudahyca.gov/)"}}, "technologies": []}
+{"urls": {"http://cityoffarmersville-ca.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://cityoffarmersville-ca.gov/)"}}, "technologies": []}
+{"urls": {"http://cityoffarmington-ar.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://cityoffarmington-ar.gov/)"}}, "technologies": []}
+{"urls": {"http://cityofgunnison-co.gov/": {"status": 0, "error": "Hostname could not be resolved (http://cityofgunnison-co.gov/)"}}, "technologies": []}
+{"urls": {"http://cityofhayward-ca.gov/": {"status": 0, "error": "Hostname could not be resolved (http://cityofhayward-ca.gov/)"}}, "technologies": []}
+{"urls": {"http://cityofhouston.gov/": {"status": 0, "error": "Hostname could not be resolved (http://cityofhouston.gov/)"}}, "technologies": []}
