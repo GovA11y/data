@@ -12,7 +12,7 @@ load_dotenv()
 API_URL = os.environ.get('API_URL', 'http://localhost:3000')
 
 # Load the CSV file starting from row 4500
-df = pd.read_csv('lists/clean.csv', skiprows=range(1, 4500))
+df = pd.read_csv('lists/clean.csv', skiprows=range(1, 11377))
 
 # Create the results directory if it doesn't exist
 if not os.path.exists('local'):

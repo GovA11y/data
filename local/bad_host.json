@@ -1106,3 +1106,21 @@
 {"urls": {"http://lawtonmi.gov/": {"status": 0, "error": "net::ERR_CONNECTION_REFUSED at http://lawtonmi.gov/ (http://lawtonmi.gov/)"}}, "technologies": []}
 {"urls": {"http://lenexa-ks.gov/": {"status": 0, "error": "Hostname could not be resolved (http://lenexa-ks.gov/)"}}, "technologies": []}
 {"urls": {"http://lenoir-nc.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://lenoir-nc.gov/)"}}, "technologies": []}
+{"urls": {"http://litchfield-nh.gov/": {"status": 0, "error": "Hostname could not be resolved (http://litchfield-nh.gov/)"}}, "technologies": []}
+{"urls": {"http://littlerockar.gov/": {"status": 0, "error": "Hostname could not be resolved (http://littlerockar.gov/)"}}, "technologies": []}
+{"urls": {"http://lodi.gov/": {"status": 0, "error": "Hostname could not be resolved (http://lodi.gov/)"}}, "technologies": []}
+{"urls": {"http://lodica.gov/": {"status": 0, "error": "Hostname could not be resolved (http://lodica.gov/)"}}, "technologies": []}
+{"urls": {"http://lorenatx.gov/": {"status": 0, "error": "Hostname could not be resolved (http://lorenatx.gov/)"}}, "technologies": []}
+{"urls": {"http://lott-tx.gov/": {"status": 0, "error": "Hostname could not be resolved (http://lott-tx.gov/)"}}, "technologies": []}
+{"urls": {"http://lowellarkansas.gov/": {"status": 0, "error": "Hostname could not be resolved (http://lowellarkansas.gov/)"}}, "technologies": []}
+{"urls": {"http://lubbocktx.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://lubbocktx.gov/)"}}, "technologies": []}
+{"urls": {"http://lynchburgvapolice.gov/": {"status": 0, "error": "net::ERR_EMPTY_RESPONSE at http://lynchburgvapolice.gov/ (http://lynchburgvapolice.gov/)"}}, "technologies": []}
+{"urls": {"http://madisonal.gov/": {"status": 0, "error": "Hostname could not be resolved (http://madisonal.gov/)"}}, "technologies": []}
+{"urls": {"http://manwv.gov/": {"status": 0, "error": "Hostname could not be resolved (http://manwv.gov/)"}}, "technologies": []}
+{"urls": {"http://marshall-il.gov/": {"status": 0, "error": "Hostname could not be resolved (http://marshall-il.gov/)"}}, "technologies": []}
+{"urls": {"http://maryville-tn.gov/": {"status": 0, "error": "Hostname could not be resolved (http://maryville-tn.gov/)"}}, "technologies": []}
+{"urls": {"http://mayaguezpr.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://mayaguezpr.gov/)"}}, "technologies": []}
+{"urls": {"http://mcdonough-ga.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://mcdonough-ga.gov/)"}}, "technologies": []}
+{"urls": {"http://mctx.gov/": {"status": 0, "error": "Hostname could not be resolved (http://mctx.gov/)"}}, "technologies": []}
+{"urls": {"http://meadowsplacetx.gov/": {"status": 0, "error": "Hostname could not be resolved (http://meadowsplacetx.gov/)"}}, "technologies": []}
+{"urls": {"http://mercerislandwa.gov/": {"status": 0, "error": "Hostname could not be resolved (http://mercerislandwa.gov/)"}}, "technologies": []}
