@@ -981,3 +981,73 @@
 {"urls": {"http://cityofgunnison-co.gov/": {"status": 0, "error": "Hostname could not be resolved (http://cityofgunnison-co.gov/)"}}, "technologies": []}
 {"urls": {"http://cityofhayward-ca.gov/": {"status": 0, "error": "Hostname could not be resolved (http://cityofhayward-ca.gov/)"}}, "technologies": []}
 {"urls": {"http://cityofhouston.gov/": {"status": 0, "error": "Hostname could not be resolved (http://cityofhouston.gov/)"}}, "technologies": []}
+{"urls": {"http://cityofhumble-tx.gov/": {"status": 0, "error": "Hostname could not be resolved (http://cityofhumble-tx.gov/)"}}, "technologies": []}
+{"urls": {"http://cityoflahabra-ca.gov/": {"status": 0, "error": "Hostname could not be resolved (http://cityoflahabra-ca.gov/)"}}, "technologies": []}
+{"urls": {"http://cityoflouisvillems.gov/": {"status": 0, "error": "Hostname could not be resolved (http://cityoflouisvillems.gov/)"}}, "technologies": []}
+{"urls": {"http://cityofmadisonwi.gov/": {"status": 0, "error": "Hostname could not be resolved (http://cityofmadisonwi.gov/)"}}, "technologies": []}
+{"urls": {"http://cityofmattawa-wa.gov/": {"status": 0, "error": "net::ERR_ADDRESS_UNREACHABLE at http://cityofmattawa-wa.gov/ (http://cityofmattawa-wa.gov/)"}}, "technologies": []}
+{"urls": {"http://cityofmetterga.gov/": {"status": 0, "error": "net::ERR_CONNECTION_REFUSED at http://cityofmetterga.gov/ (http://cityofmetterga.gov/)"}}, "technologies": []}
+{"urls": {"http://cityofmidland-mi.gov/": {"status": 0, "error": "Hostname could not be resolved (http://cityofmidland-mi.gov/)"}}, "technologies": []}
+{"urls": {"http://cityofmillbrook-al.gov/": {"status": 0, "error": "Hostname could not be resolved (http://cityofmillbrook-al.gov/)"}}, "technologies": []}
+{"urls": {"http://cityofmillenga.gov/": {"status": 0, "error": "Hostname could not be resolved (http://cityofmillenga.gov/)"}}, "technologies": []}
+{"urls": {"http://cityofmineralpointwi.gov/": {"status": 0, "error": "Hostname could not be resolved (http://cityofmineralpointwi.gov/)"}}, "technologies": []}
+{"urls": {"http://cityofnovi-mi.gov/": {"status": 0, "error": "Hostname could not be resolved (http://cityofnovi-mi.gov/)"}}, "technologies": []}
+{"urls": {"http://cityofpacificwa.gov/": {"status": 0, "error": "Hostname could not be resolved (http://cityofpacificwa.gov/)"}}, "technologies": []}
+{"urls": {"http://cityofparistn.gov/": {"status": 0, "error": "Hostname could not be resolved (http://cityofparistn.gov/)"}}, "technologies": []}
+{"urls": {"http://cityofredmond.gov/": {"status": 0, "error": "Hostname could not be resolved (http://cityofredmond.gov/)"}}, "technologies": []}
+{"urls": {"http://cityofrockhillsc.gov/": {"status": 0, "error": "Hostname could not be resolved (http://cityofrockhillsc.gov/)"}}, "technologies": []}
+{"urls": {"http://cityofsanmateoca.gov/": {"status": 0, "error": "Hostname could not be resolved (http://cityofsanmateoca.gov/)"}}, "technologies": []}
+{"urls": {"http://cityofsantamariaca.gov/": {"status": 0, "error": "Hostname could not be resolved (http://cityofsantamariaca.gov/)"}}, "technologies": []}
+{"urls": {"http://cityofsarasotafl.gov/": {"status": 0, "error": "Hostname could not be resolved (http://cityofsarasotafl.gov/)"}}, "technologies": []}
+{"urls": {"http://cityofsebastopol.gov/": {"status": 0, "error": "Hostname could not be resolved (http://cityofsebastopol.gov/)"}}, "technologies": []}
+{"urls": {"http://cityofsnoqualmiewa.gov/": {"status": 0, "error": "Hostname could not be resolved (http://cityofsnoqualmiewa.gov/)"}}, "technologies": []}
+{"urls": {"http://cityofstockbridge-ga.gov/": {"status": 0, "error": "Hostname could not be resolved (http://cityofstockbridge-ga.gov/)"}}, "technologies": []}
+{"urls": {"http://cityoftorranceca.gov/": {"status": 0, "error": "Hostname could not be resolved (http://cityoftorranceca.gov/)"}}, "technologies": []}
+{"urls": {"http://cityofwashburnwi.gov/": {"status": 0, "error": "Hostname could not be resolved (http://cityofwashburnwi.gov/)"}}, "technologies": []}
+{"urls": {"http://claytonnc.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://claytonnc.gov/)"}}, "technologies": []}
+{"urls": {"http://clearviewok.gov/": {"status": 0, "error": "Hostname could not be resolved (http://clearviewok.gov/)"}}, "technologies": []}
+{"urls": {"http://cliftonaz.gov/": {"status": 0, "error": "Hostname could not be resolved (http://cliftonaz.gov/)"}}, "technologies": []}
+{"urls": {"http://clinton-me.gov/": {"status": 0, "error": "Hostname could not be resolved (http://clinton-me.gov/)"}}, "technologies": []}
+{"urls": {"http://clintontownship-mi.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://clintontownship-mi.gov/)"}}, "technologies": []}
+{"urls": {"http://collegeparkga.gov/": {"status": 0, "error": "net::ERR_ADDRESS_UNREACHABLE at http://collegeparkga.gov/ (http://collegeparkga.gov/)"}}, "technologies": []}
+{"urls": {"http://collegeville-pa.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://collegeville-pa.gov/)"}}, "technologies": []}
+{"urls": {"http://columbusoh.gov/": {"status": 0, "error": "Hostname could not be resolved (http://columbusoh.gov/)"}}, "technologies": []}
+{"urls": {"http://commercetwpmi.gov/": {"status": 0, "error": "Hostname could not be resolved (http://commercetwpmi.gov/)"}}, "technologies": []}
+{"urls": {"http://concretewa.gov/": {"status": 0, "error": "Hostname could not be resolved (http://concretewa.gov/)"}}, "technologies": []}
+{"urls": {"http://conyersga.gov/": {"status": 0, "error": "Hostname could not be resolved (http://conyersga.gov/)"}}, "technologies": []}
+{"urls": {"http://corydon-in.gov/": {"status": 0, "error": "Hostname could not be resolved (http://corydon-in.gov/)"}}, "technologies": []}
+{"urls": {"http://cosprings.gov/": {"status": 0, "error": "Hostname could not be resolved (http://cosprings.gov/)"}}, "technologies": []}
+{"urls": {"http://coventry-ct.gov/": {"status": 0, "error": "Hostname could not be resolved (http://coventry-ct.gov/)"}}, "technologies": []}
+{"urls": {"http://cranstonfireri.gov/": {"status": 0, "error": "Hostname could not be resolved (http://cranstonfireri.gov/)"}}, "technologies": []}
+{"urls": {"http://crawfordsville-in.gov/": {"status": 0, "error": "Hostname could not be resolved (http://crawfordsville-in.gov/)"}}, "technologies": []}
+{"urls": {"http://crestedbutte-co.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://crestedbutte-co.gov/)"}}, "technologies": []}
+{"urls": {"http://cubaassessoril.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://cubaassessoril.gov/)"}}, "technologies": []}
+{"urls": {"http://cumberlandmd.gov/": {"status": 0, "error": "Hostname could not be resolved (http://cumberlandmd.gov/)"}}, "technologies": []}
+{"urls": {"http://cumberlandtwppa.gov/": {"status": 0, "error": "Hostname could not be resolved (http://cumberlandtwppa.gov/)"}}, "technologies": []}
+{"urls": {"http://dallas-ga.gov/": {"status": 0, "error": "Hostname could not be resolved (http://dallas-ga.gov/)"}}, "technologies": []}
+{"urls": {"http://dallascityhall-tx.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://dallascityhall-tx.gov/)"}}, "technologies": []}
+{"urls": {"http://dallasoregon.gov/": {"status": 0, "error": "Hostname could not be resolved (http://dallasoregon.gov/)"}}, "technologies": []}
+{"urls": {"http://dalycity.gov/": {"status": 0, "error": "Hostname could not be resolved (http://dalycity.gov/)"}}, "technologies": []}
+{"urls": {"http://darienil.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://darienil.gov/)"}}, "technologies": []}
+{"urls": {"http://decaturillinois.gov/": {"status": 0, "error": "net::ERR_CONNECTION_REFUSED at http://decaturillinois.gov/ (http://decaturillinois.gov/)"}}, "technologies": []}
+{"urls": {"http://denverco.gov/": {"status": 0, "error": "Hostname could not be resolved (http://denverco.gov/)"}}, "technologies": []}
+{"urls": {"http://dewittar.gov/": {"status": 0, "error": "Hostname could not be resolved (http://dewittar.gov/)"}}, "technologies": []}
+{"urls": {"http://doral-fl.gov/": {"status": 0, "error": "Hostname could not be resolved (http://doral-fl.gov/)"}}, "technologies": []}
+{"urls": {"http://doralpd-fl.gov/": {"status": 0, "error": "Hostname could not be resolved (http://doralpd-fl.gov/)"}}, "technologies": []}
+{"urls": {"http://eastkingstonnh.gov/": {"status": 0, "error": "Hostname could not be resolved (http://eastkingstonnh.gov/)"}}, "technologies": []}
+{"urls": {"http://eastlandtexas.gov/": {"status": 0, "error": "Hostname could not be resolved (http://eastlandtexas.gov/)"}}, "technologies": []}
+{"urls": {"http://eauclairevillage-mi.gov/": {"status": 0, "error": "Hostname could not be resolved (http://eauclairevillage-mi.gov/)"}}, "technologies": []}
+{"urls": {"http://edmonds-wa.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://edmonds-wa.gov/)"}}, "technologies": []}
+{"urls": {"http://elizabethtownky.gov/": {"status": 0, "error": "Hostname could not be resolved (http://elizabethtownky.gov/)"}}, "technologies": []}
+{"urls": {"http://encinitascalifornia.gov/": {"status": 0, "error": "Hostname could not be resolved (http://encinitascalifornia.gov/)"}}, "technologies": []}
+{"urls": {"http://epsomnhpolice.gov/": {"status": 0, "error": "Hostname could not be resolved (http://epsomnhpolice.gov/)"}}, "technologies": []}
+{"urls": {"http://eurekaillinois.gov/": {"status": 0, "error": "Hostname could not be resolved (http://eurekaillinois.gov/)"}}, "technologies": []}
+{"urls": {"http://evanston-wy.gov/": {"status": 0, "error": "Hostname could not be resolved (http://evanston-wy.gov/)"}}, "technologies": []}
+{"urls": {"http://fairfieldct.gov/": {"status": 0, "error": "Hostname could not be resolved (http://fairfieldct.gov/)"}}, "technologies": []}
+{"urls": {"http://fairfieldiowa.gov/": {"status": 0, "error": "Hostname could not be resolved (http://fairfieldiowa.gov/)"}}, "technologies": []}
+{"urls": {"http://fairhope-al.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://fairhope-al.gov/)"}}, "technologies": []}
+{"urls": {"http://fairhopealpolice.gov/": {"status": 0, "error": "Hostname could not be resolved (http://fairhopealpolice.gov/)"}}, "technologies": []}
+{"urls": {"http://fallschurchcityva.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://fallschurchcityva.gov/)"}}, "technologies": []}
+{"urls": {"http://falmouthfirema.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://falmouthfirema.gov/)"}}, "technologies": []}
+{"urls": {"http://falmouthpolicema.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://falmouthpolicema.gov/)"}}, "technologies": []}
+{"urls": {"http://follansbeewv.gov/": {"status": 0, "error": "Hostname could not be resolved (http://follansbeewv.gov/)"}}, "technologies": []}
