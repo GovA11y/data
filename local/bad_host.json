@@ -1338,3 +1338,55 @@
 {"urls": {"http://grantcountywa.gov/": {"status": 0, "error": "Hostname could not be resolved (http://grantcountywa.gov/)"}}, "technologies": []}
 {"urls": {"http://greenmchenrycountyil.gov/": {"status": 0, "error": "Hostname could not be resolved (http://greenmchenrycountyil.gov/)"}}, "technologies": []}
 {"urls": {"http://greenmchenrycountyillinois.gov/": {"status": 0, "error": "Hostname could not be resolved (http://greenmchenrycountyillinois.gov/)"}}, "technologies": []}
+{"urls": {"http://hallcountyne.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://hallcountyne.gov/)"}}, "technologies": []}
+{"urls": {"http://hanover.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://hanover.gov/)"}}, "technologies": []}
+{"urls": {"http://hanovercountyva.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://hanovercountyva.gov/)"}}, "technologies": []}
+{"urls": {"http://hoodcountytx.gov/": {"status": 0, "error": "Hostname could not be resolved (http://hoodcountytx.gov/)"}}, "technologies": []}
+{"urls": {"http://howardcountymaryland.gov/": {"status": 0, "error": "Hostname could not be resolved (http://howardcountymaryland.gov/)"}}, "technologies": []}
+{"urls": {"http://howardcountytx.gov/": {"status": 0, "error": "Hostname could not be resolved (http://howardcountytx.gov/)"}}, "technologies": []}
+{"urls": {"http://humboldtcavotes.gov/": {"status": 0, "error": "Hostname could not be resolved (http://humboldtcavotes.gov/)"}}, "technologies": []}
+{"urls": {"http://humboldtcountyca.gov/": {"status": 0, "error": "Hostname could not be resolved (http://humboldtcountyca.gov/)"}}, "technologies": []}
+{"urls": {"http://issaquenacountyms.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://issaquenacountyms.gov/)"}}, "technologies": []}
+{"urls": {"http://jacksoncoga.gov/": {"status": 0, "error": "Hostname could not be resolved (http://jacksoncoga.gov/)"}}, "technologies": []}
+{"urls": {"http://jeffersoncountyarcourts.gov/": {"status": 0, "error": "Hostname could not be resolved (http://jeffersoncountyarcourts.gov/)"}}, "technologies": []}
+{"urls": {"http://jenningscounty-in.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://jenningscounty-in.gov/)"}}, "technologies": []}
+{"urls": {"http://jocomo.gov/": {"status": 0, "error": "Hostname could not be resolved (http://jocomo.gov/)"}}, "technologies": []}
+{"urls": {"http://kenoshacountywi.gov/": {"status": 0, "error": "net::ERR_ADDRESS_UNREACHABLE at http://kenoshacountywi.gov/ (http://kenoshacountywi.gov/)"}}, "technologies": []}
+{"urls": {"http://keweenawcountymi.gov/": {"status": 0, "error": "Hostname could not be resolved (http://keweenawcountymi.gov/)"}}, "technologies": []}
+{"urls": {"http://knoxcountytexas.gov/": {"status": 0, "error": "Hostname could not be resolved (http://knoxcountytexas.gov/)"}}, "technologies": []}
+{"urls": {"http://lakemt.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://lakemt.gov/)"}}, "technologies": []}
+{"urls": {"http://lancastercountysc.gov/": {"status": 0, "error": "Hostname could not be resolved (http://lancastercountysc.gov/)"}}, "technologies": []}
+{"urls": {"http://leecountyil.gov/": {"status": 0, "error": "Hostname could not be resolved (http://leecountyil.gov/)"}}, "technologies": []}
+{"urls": {"http://loudouncountyva.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://loudouncountyva.gov/)"}}, "technologies": []}
+{"urls": {"http://lowndescountyga.gov/": {"status": 0, "error": "Hostname could not be resolved (http://lowndescountyga.gov/)"}}, "technologies": []}
+{"urls": {"http://macombcountymi.gov/": {"status": 0, "error": "net::ERR_ADDRESS_UNREACHABLE at http://macombcountymi.gov/ (http://macombcountymi.gov/)"}}, "technologies": []}
+{"urls": {"http://marioncountyky.gov/": {"status": 0, "error": "Hostname could not be resolved (http://marioncountyky.gov/)"}}, "technologies": []}
+{"urls": {"http://massaccountyil.gov/": {"status": 0, "error": "Hostname could not be resolved (http://massaccountyil.gov/)"}}, "technologies": []}
+{"urls": {"http://mauicounty-hi.gov/": {"status": 0, "error": "Hostname could not be resolved (http://mauicounty-hi.gov/)"}}, "technologies": []}
+{"urls": {"http://mercedcountyca.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://mercedcountyca.gov/)"}}, "technologies": []}
+{"urls": {"http://miamicountyin.gov/": {"status": 0, "error": "Hostname could not be resolved (http://miamicountyin.gov/)"}}, "technologies": []}
+{"urls": {"http://mywashingtoncountyny.gov/": {"status": 0, "error": "net::ERR_ADDRESS_UNREACHABLE at http://mywashingtoncountyny.gov/ (http://mywashingtoncountyny.gov/)"}}, "technologies": []}
+{"urls": {"http://ocunclaimed.gov/": {"status": 0, "error": "Hostname could not be resolved (http://ocunclaimed.gov/)"}}, "technologies": []}
+{"urls": {"http://ohiocountyky.gov/": {"status": 0, "error": "Hostname could not be resolved (http://ohiocountyky.gov/)"}}, "technologies": []}
+{"urls": {"http://okeechobeecountyfl.gov/": {"status": 0, "error": "Hostname could not be resolved (http://okeechobeecountyfl.gov/)"}}, "technologies": []}
+{"urls": {"http://oldhamcountyky.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://oldhamcountyky.gov/)"}}, "technologies": []}
+{"urls": {"http://orangecounty-va.gov/": {"status": 0, "error": "Hostname could not be resolved (http://orangecounty-va.gov/)"}}, "technologies": []}
+{"urls": {"http://orangecountyvt.gov/": {"status": 0, "error": "Hostname could not be resolved (http://orangecountyvt.gov/)"}}, "technologies": []}
+{"urls": {"http://pikecounty-mo.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://pikecounty-mo.gov/)"}}, "technologies": []}
+{"urls": {"http://pinellascounty-fl.gov/": {"status": 0, "error": "Hostname could not be resolved (http://pinellascounty-fl.gov/)"}}, "technologies": []}
+{"urls": {"http://pinellascountyfl.gov/": {"status": 0, "error": "Hostname could not be resolved (http://pinellascountyfl.gov/)"}}, "technologies": []}
+{"urls": {"http://polkcountyor.gov/": {"status": 0, "error": "Hostname could not be resolved (http://polkcountyor.gov/)"}}, "technologies": []}
+{"urls": {"http://pottawattamiecounty-ia.gov/": {"status": 0, "error": "Hostname could not be resolved (http://pottawattamiecounty-ia.gov/)"}}, "technologies": []}
+{"urls": {"http://pulaskicountyil.gov/": {"status": 0, "error": "Navigation timeout of 20000 ms exceeded (http://pulaskicountyil.gov/)"}}, "technologies": []}
+{"urls": {"http://pulaskicountyva.gov/": {"status": 0, "error": "Hostname could not be resolved (http://pulaskicountyva.gov/)"}}, "technologies": []}
+{"urls": {"http://rallscountymo.gov/": {"status": 0, "error": "Hostname could not be resolved (http://rallscountymo.gov/)"}}, "technologies": []}
+{"urls": {"http://readymchenrycountyil.gov/": {"status": 0, "error": "Hostname could not be resolved (http://readymchenrycountyil.gov/)"}}, "technologies": []}
+{"urls": {"http://readymchenrycountyillinois.gov/": {"status": 0, "error": "Hostname could not be resolved (http://readymchenrycountyillinois.gov/)"}}, "technologies": []}
+{"urls": {"http://rockbridgecountyva.gov/": {"status": 0, "error": "Hostname could not be resolved (http://rockbridgecountyva.gov/)"}}, "technologies": []}
+{"urls": {"http://rockcounty-wi.gov/": {"status": 0, "error": "Hostname could not be resolved (http://rockcounty-wi.gov/)"}}, "technologies": []}
+{"urls": {"http://rosebudcountysheriffmt.gov/": {"status": 0, "error": "Hostname could not be resolved (http://rosebudcountysheriffmt.gov/)"}}, "technologies": []}
+{"urls": {"http://saltlakehealth.gov/": {"status": 0, "error": "Hostname could not be resolved (http://saltlakehealth.gov/)"}}, "technologies": []}
+{"urls": {"http://sandiegosheriff.gov/": {"status": 0, "error": "Hostname could not be resolved (http://sandiegosheriff.gov/)"}}, "technologies": []}
+{"urls": {"http://sanpetecountyutah.gov/": {"status": 0, "error": "Hostname could not be resolved (http://sanpetecountyutah.gov/)"}}, "technologies": []}
+{"urls": {"http://saukcountywi.gov/": {"status": 0, "error": "Hostname could not be resolved (http://saukcountywi.gov/)"}}, "technologies": []}
+{"urls": {"http://schuylercountyny.gov/": {"status": 0, "error": "Hostname could not be resolved (http://schuylercountyny.gov/)"}}, "technologies": []}
